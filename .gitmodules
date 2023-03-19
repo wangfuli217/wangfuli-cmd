@@ -1,0 +1,24 @@
+[submodule "scripting_course"]
+	path = scripting_course
+	url = https://github.com/learnbyexample/scripting_course
+[submodule "learn_gnused"]
+	path = learn_gnused
+	url = https://github.com/learnbyexample/learn_gnused
+[submodule "vim_reference"]
+	path = vim_reference
+	url = https://github.com/learnbyexample/vim_reference
+[submodule "Command-line-text-processing"]
+	path = Command-line-text-processing
+	url = https://github.com/learnbyexample/Command-line-text-processing
+[submodule "cli_text_processing_coreutils"]
+	path = cli_text_processing_coreutils
+	url = https://github.com/learnbyexample/cli_text_processing_coreutils
+[submodule "learn_gnugrep_ripgrep"]
+	path = learn_gnugrep_ripgrep
+	url = https://github.com/learnbyexample/learn_gnugrep_ripgrep
+[submodule "learn_perl_oneliners"]
+	path = learn_perl_oneliners
+	url = https://github.com/learnbyexample/learn_perl_oneliners
+[submodule "learn_gnuawk"]
+	path = learn_gnuawk
+	url = https://github.com/learnbyexample/learn_gnuawk
