@@ -22,3 +22,18 @@
 [submodule "learn_gnuawk"]
 	path = learn_gnuawk
 	url = https://github.com/learnbyexample/learn_gnuawk
+[submodule "reference"]
+	path = reference
+	url = https://github.com/Fechin/reference
+[submodule "awesome-cheatsheets"]
+	path = awesome-cheatsheets
+	url = https://github.com/LeCoupa/awesome-cheatsheets
+[submodule "generate"]
+	path = generate
+	url = https://github.com/devtut/generate
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/tinmarino/wiki
+[submodule "Huge-Collection-of-CheatSheet"]
+	path = Huge-Collection-of-CheatSheet
+	url = https://github.com/OCEANOFANYTHING/Huge-Collection-of-CheatSheet
